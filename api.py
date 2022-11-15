@@ -21,6 +21,8 @@ def names(First_name:bool = False, last_name:bool = False):
         
     return full_names
 
+if __name__ == "__main__":
+    storage.run
 #if __name__=='__main__':
     #app.run()
     
